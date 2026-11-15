@@ -1,0 +1,8 @@
+[package]
+name = "SigmaOS-onlyoffice-presentation"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_onlyoffice_presentation"
+path = "src/lib.rs"
