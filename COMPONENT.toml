@@ -3,7 +3,7 @@ name = "SigmaOS-onlyoffice-presentation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "onlyoffice-presentation component"
+description = "onlyoffice presentation component"
 upstream = []
 
 [contract]
